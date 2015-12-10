@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationSample</string>
+    <string name="service_not_avaible">Service not avaible</string>
+    <string name="invalid_lat_long_used">Invalid latitude and/or longitude used</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+</resources>
